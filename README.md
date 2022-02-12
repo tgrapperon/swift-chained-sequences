@@ -1,4 +1,4 @@
 # swift-chained-sequences
 
-A library to chain collections of sequences.
+A library to chain sequences.
 WIP
